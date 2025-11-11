@@ -100,7 +100,7 @@ int main() {
 
     Instructor instructor("Dr.Lina khaled", 3001, "Computer Science", 5);
     instructor.display();
-    cout<<"---"<<endl;
+
 
     Course course("CS101", "Intro to programming", 3, 2, "Informatics");
     course.addStudent(Student(2, "Informatics"));
